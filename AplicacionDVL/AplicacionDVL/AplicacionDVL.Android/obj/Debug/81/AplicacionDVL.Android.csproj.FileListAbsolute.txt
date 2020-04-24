@@ -1,0 +1,2 @@
+C:\Users\hp\Documents\AplicacionDVL\AplicacionDVL\AplicacionDVL.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\hp\Documents\AplicacionDVL\AplicacionDVL\AplicacionDVL.Android\obj\Debug\81\AplicacionDVL.Android.nuget.stamp
